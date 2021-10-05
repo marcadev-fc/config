@@ -8,11 +8,11 @@
 
 - View my projects here:
 
-<a href="https://intergalactic-shuffle.herokuapp.com/">Intergalactic Shuffle</a>
+- <a href="https://intergalactic-shuffle.herokuapp.com/">Intergalactic Shuffle</a>
 
-<a href="https://ads75018.github.io/NormansChickenAdventure/">Norman's Chicken Adventure</a>
+- <a href="https://ads75018.github.io/NormansChickenAdventure/">Norman's Chicken Adventure</a>
 
-<a href="https://one-paw-away.herokuapp.com/">One Paw Away</a>
+- <a href="https://one-paw-away.herokuapp.com/">One Paw Away</a>
 
 
 
