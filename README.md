@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interactive projects..
 - 📫 How to reach me ====> adamghaoul@gmail.com 
 
-
+----------------------------------------------------------
 
 - View my projects here:
 
