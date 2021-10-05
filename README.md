@@ -6,13 +6,15 @@
 
 
 
-- View my projects here
+- View my projects here:
 
-https://ads75018.github.io/NormansChickenAdventure/
+<a href="https://intergalactic-shuffle.herokuapp.com/">Intergalactic Shuffle</a>
 
-https://one-paw-away.herokuapp.com/
+<a href="https://ads75018.github.io/NormansChickenAdventure/">Norman's Chicken Adventure</a>
 
-https://intergalactic-shuffle.herokuapp.com/
+<a href="https://one-paw-away.herokuapp.com/">One Paw Away</a>
+
+
 
 <!---
 ads75018/ads75018 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
