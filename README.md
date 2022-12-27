@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ads75018..
-- 👀 I’m interested in full-stack web development..
+- 👋 Hi, I’m Adam..
+- 👀 I’m interested in game design and mechanics
 - 🌱 I’m currently learning P5..
 - 💞️ I’m looking to collaborate on interactive projects..
 - 📫 How to reach me ====> adamghaoul@gmail.com 
@@ -10,7 +10,7 @@
 
 - <a href="https://intergalactic-shuffle.herokuapp.com/">Intergalactic Shuffle</a>
 
-- <a href="https://ads75018.github.io/NormansChickenAdventure/">Norman's Chicken Adventure</a>
+- <a href="https://marcadev-fc.github.io/NormansChickenAdventure/">Norman's Chicken Adventure</a>
 
 - <a href="https://one-paw-away.herokuapp.com/">One Paw Away</a>
 
